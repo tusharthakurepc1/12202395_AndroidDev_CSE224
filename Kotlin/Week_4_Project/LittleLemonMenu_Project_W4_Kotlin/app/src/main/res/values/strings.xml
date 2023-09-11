@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Little Lemon Menu</string>
+    <string name="sort_a_z">Sort: A-Z</string>
+    <string name="sort_price_ascending">Sort: Price ascending</string>
+    <string name="sort_price_descending">Sort: Price descending</string>
+    <string name="filter_drinks">Filter: Drinks</string>
+    <string name="filter_all">Filter: All</string>
+    <string name="filter_food">Filter: Food</string>
+    <string name="filter_dessert">Food: Dessert</string>
+    <string name="title_activity_product_details2">Product_Details_2</string>
+    <string name="title_activity_product_description">ProductDescription</string>
+    <string name="title_activity_product_desc">ProductDESC</string>
+</resources>

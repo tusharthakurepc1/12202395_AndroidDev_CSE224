@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Little Lemon</string>
+    <string name="app_full_name">EAPC</string>
+    <string name="location">Chicago</string>
+    <string name="about">We are family owned mediterranean restaurant, focused on traditional recipes served with a modern twist</string>
+    <string name="card_a">Weekly Special</string>
+    <string name="tile_2_desc">Big table mat menu for a burger offer, daily happy hour, grill and burger menu, pub and bar food, fast food restaurant etc.</string>
+
+</resources>

@@ -1,0 +1,26 @@
+package com.Coursera
+
+import kotlin.random.Random
+
+data class Ingredient(
+    val name: String,
+    val stockUnits: Int
+)
+
+
+val ingredientList = listOf(
+    Ingredient("Olive Oil", 7),
+    Ingredient("Wheat", 3),
+    Ingredient("Soda", 10),
+    Ingredient("Egg", 0),
+    Ingredient("Yeast", 2)
+)
+
+
+fun main() {
+    val ingredientsToRefill = ingredientList.filter { ingredient ->
+        ingredient.stockUnits <= 5
+    }
+    println(ingredientsToRefill)
+
+}

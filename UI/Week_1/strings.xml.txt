@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Little Lemon</string>
+    <string name="dashboard_description">Dashboard</string>
+    <string name="aboutUs">Tushar Chand Thakur
+        Created this Android App having all the rights reserved.</string>
+</resources>
